@@ -343,5 +343,1085 @@
       "counting",
       "vehicle"
     ]
+  },
+  {
+    "id": "plus",
+    "name": "Plus",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "plus.png",
+    "tags": [
+      "math symbol",
+      "addition",
+      "operation"
+    ]
+  },
+  {
+    "id": "minus",
+    "name": "Minus",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "minus.png",
+    "tags": [
+      "math symbol",
+      "subtraction",
+      "operation"
+    ]
+  },
+  {
+    "id": "equals",
+    "name": "Equals",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "equals.png",
+    "tags": [
+      "math symbol",
+      "equality",
+      "operation"
+    ]
+  },
+  {
+    "id": "number-line",
+    "name": "Number line",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "number-line.png",
+    "tags": [
+      "number line",
+      "counting",
+      "reference"
+    ]
+  },
+  {
+    "id": "ten-frame",
+    "name": "Ten frame",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "ten-frame.png",
+    "tags": [
+      "counting",
+      "number sense",
+      "manipulative"
+    ]
+  },
+  {
+    "id": "tally-marks",
+    "name": "Tally marks",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "tally-marks.png",
+    "tags": [
+      "counting",
+      "data",
+      "recording"
+    ]
+  },
+  {
+    "id": "counting-cubes",
+    "name": "Counting cubes",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "counting-cubes.png",
+    "tags": [
+      "manipulative",
+      "counting",
+      "cubes"
+    ]
+  },
+  {
+    "id": "snap-cubes",
+    "name": "Snap cubes",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "snap-cubes.png",
+    "tags": [
+      "manipulative",
+      "counting",
+      "cubes"
+    ]
+  },
+  {
+    "id": "snap-cube-blue",
+    "name": "Snap cube — blue",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "snap-cube-blue.png",
+    "tags": [
+      "manipulative",
+      "cube",
+      "counting"
+    ]
+  },
+  {
+    "id": "snap-cube-orange",
+    "name": "Snap cube — orange",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "snap-cube-orange.png",
+    "tags": [
+      "manipulative",
+      "cube",
+      "counting"
+    ]
+  },
+  {
+    "id": "snap-cube-yellow",
+    "name": "Snap cube — yellow",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "snap-cube-yellow.png",
+    "tags": [
+      "manipulative",
+      "cube",
+      "counting"
+    ]
+  },
+  {
+    "id": "abacus",
+    "name": "Abacus",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "abacus.png",
+    "tags": [
+      "counting",
+      "place value",
+      "manipulative"
+    ]
+  },
+  {
+    "id": "ruler-doodle",
+    "name": "Ruler",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "ruler-doodle.png",
+    "tags": [
+      "measurement",
+      "length",
+      "tool"
+    ]
+  },
+  {
+    "id": "balance-scale",
+    "name": "Balance scale",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "balance-scale.png",
+    "tags": [
+      "measurement",
+      "weight",
+      "equality"
+    ]
+  },
+  {
+    "id": "clock-doodle",
+    "name": "Clock",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "clock-doodle.png",
+    "tags": [
+      "time",
+      "measurement"
+    ]
+  },
+  {
+    "id": "pencil-doodle",
+    "name": "Pencil (doodle)",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "pencil-doodle.png",
+    "tags": [
+      "school supplies",
+      "writing"
+    ]
+  },
+  {
+    "id": "shapes-doodle",
+    "name": "Shapes",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "shapes-doodle.png",
+    "tags": [
+      "geometry",
+      "shapes",
+      "sorting"
+    ]
+  },
+  {
+    "id": "coins",
+    "name": "Coins",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "coins.png",
+    "tags": [
+      "money",
+      "counting",
+      "currency"
+    ]
+  },
+  {
+    "id": "dice-doodle",
+    "name": "Dice",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "dice-doodle.png",
+    "tags": [
+      "counting",
+      "probability",
+      "games"
+    ]
+  },
+  {
+    "id": "play-button",
+    "name": "Play",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "play-button.png",
+    "tags": [
+      "media control",
+      "video",
+      "ui"
+    ]
+  },
+  {
+    "id": "pause-button",
+    "name": "Pause",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "pause-button.png",
+    "tags": [
+      "media control",
+      "video",
+      "ui"
+    ]
+  },
+  {
+    "id": "stop-button",
+    "name": "Stop",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "stop-button.png",
+    "tags": [
+      "media control",
+      "video",
+      "ui"
+    ]
+  },
+  {
+    "id": "inch-tiles",
+    "name": "Inch tiles",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "inch-tiles.png",
+    "tags": [
+      "measurement",
+      "manipulative",
+      "area"
+    ]
+  },
+  {
+    "id": "two-color-counters",
+    "name": "2-color counters",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "two-color-counters.png",
+    "tags": [
+      "manipulative",
+      "counting",
+      "probability"
+    ]
+  },
+  {
+    "id": "markers",
+    "name": "Markers",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "markers.png",
+    "tags": [
+      "art supplies",
+      "drawing"
+    ]
+  },
+  {
+    "id": "crayons",
+    "name": "Crayons",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "crayons.png",
+    "tags": [
+      "art supplies",
+      "sorting by color"
+    ]
+  },
+  {
+    "id": "colored-pencils",
+    "name": "Colored pencils",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "colored-pencils.png",
+    "tags": [
+      "art supplies",
+      "sorting by color"
+    ]
+  },
+  {
+    "id": "pattern-blocks",
+    "name": "Pattern blocks",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "pattern-blocks.png",
+    "tags": [
+      "manipulative",
+      "geometry",
+      "shapes"
+    ]
+  },
+  {
+    "id": "grid-paper",
+    "name": "Grid paper",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "grid-paper.png",
+    "tags": [
+      "school supplies",
+      "graphing"
+    ]
+  },
+  {
+    "id": "lined-paper",
+    "name": "Lined paper",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "lined-paper.png",
+    "tags": [
+      "school supplies",
+      "writing"
+    ]
+  },
+  {
+    "id": "blank-paper",
+    "name": "Blank paper",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "blank-paper.png",
+    "tags": [
+      "school supplies",
+      "writing"
+    ]
+  },
+  {
+    "id": "dot-paper",
+    "name": "Dot paper",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "dot-paper.png",
+    "tags": [
+      "school supplies",
+      "graphing"
+    ]
+  },
+  {
+    "id": "handwriting-paper",
+    "name": "Handwriting paper",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "handwriting-paper.png",
+    "tags": [
+      "school supplies",
+      "writing",
+      "primary"
+    ]
+  },
+  {
+    "id": "gameboard",
+    "name": "Gameboard",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "gameboard.png",
+    "tags": [
+      "games",
+      "manipulative"
+    ]
+  },
+  {
+    "id": "activity-worksheet",
+    "name": "Activity worksheet",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "activity-worksheet.png",
+    "tags": [
+      "school supplies",
+      "assessment"
+    ]
+  },
+  {
+    "id": "spinner",
+    "name": "Spinner",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "spinner.png",
+    "tags": [
+      "games",
+      "probability"
+    ]
+  },
+  {
+    "id": "playing-cards",
+    "name": "Playing cards",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "playing-cards.png",
+    "tags": [
+      "games",
+      "counting"
+    ]
+  },
+  {
+    "id": "two-players",
+    "name": "Two players",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "two-players.png",
+    "tags": [
+      "games",
+      "partner work"
+    ]
+  },
+  {
+    "id": "game-chip",
+    "name": "Game chip",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "game-chip.png",
+    "tags": [
+      "games",
+      "manipulative"
+    ]
+  },
+  {
+    "id": "game-pawns",
+    "name": "Game pawns",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "game-pawns.png",
+    "tags": [
+      "games",
+      "manipulative"
+    ]
+  },
+  {
+    "id": "domino",
+    "name": "Domino",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "domino.png",
+    "tags": [
+      "games",
+      "counting"
+    ]
+  },
+  {
+    "id": "sand-timer",
+    "name": "Sand timer",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "sand-timer.png",
+    "tags": [
+      "time",
+      "measurement"
+    ]
+  },
+  {
+    "id": "digit-cards-0-9",
+    "name": "0–9 digit cards",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "digit-cards-0-9.png",
+    "tags": [
+      "counting",
+      "number sense",
+      "manipulative"
+    ]
+  },
+  {
+    "id": "student-figure-blue",
+    "name": "Student figure — blue",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "student-figure-blue.png",
+    "tags": [
+      "person",
+      "student",
+      "group work"
+    ]
+  },
+  {
+    "id": "student-figure-teal",
+    "name": "Student figure — teal",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "student-figure-teal.png",
+    "tags": [
+      "person",
+      "student",
+      "group work"
+    ]
+  },
+  {
+    "id": "student-figure-orange",
+    "name": "Student figure — orange",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "student-figure-orange.png",
+    "tags": [
+      "person",
+      "student",
+      "group work"
+    ]
+  },
+  {
+    "id": "student-figure-yellow",
+    "name": "Student figure — yellow",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "student-figure-yellow.png",
+    "tags": [
+      "person",
+      "student",
+      "group work"
+    ]
+  },
+  {
+    "id": "student-figure-slate",
+    "name": "Student figure — slate",
+    "category": "Clipart",
+    "collection": "Doodle Icons",
+    "file": "student-figure-slate.png",
+    "tags": [
+      "person",
+      "student",
+      "group work"
+    ]
+  },
+  {
+    "id": "turn-and-talk",
+    "name": "turn-and-talk",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "turn-and-talk.png",
+    "tags": [
+      "routine",
+      "discussion",
+      "partner work"
+    ]
+  },
+  {
+    "id": "write-to-respond",
+    "name": "write-to-respond",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "write-to-respond.png",
+    "tags": [
+      "routine",
+      "writing",
+      "response"
+    ]
+  },
+  {
+    "id": "read",
+    "name": "read",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "read.png",
+    "tags": [
+      "routine",
+      "literacy"
+    ]
+  },
+  {
+    "id": "listen",
+    "name": "listen",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "listen.png",
+    "tags": [
+      "routine",
+      "audio"
+    ]
+  },
+  {
+    "id": "watch",
+    "name": "watch",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "watch.png",
+    "tags": [
+      "routine",
+      "video"
+    ]
+  },
+  {
+    "id": "think",
+    "name": "think",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "think.png",
+    "tags": [
+      "routine",
+      "reflection"
+    ]
+  },
+  {
+    "id": "draw",
+    "name": "draw",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "draw.png",
+    "tags": [
+      "routine",
+      "art",
+      "response"
+    ]
+  },
+  {
+    "id": "check-your-work",
+    "name": "check-your-work",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "check-your-work.png",
+    "tags": [
+      "routine",
+      "assessment"
+    ]
+  },
+  {
+    "id": "work-with-a-partner",
+    "name": "work-with-a-partner",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "work-with-a-partner.png",
+    "tags": [
+      "routine",
+      "partner work"
+    ]
+  },
+  {
+    "id": "work-on-your-own",
+    "name": "work-on-your-own",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "work-on-your-own.png",
+    "tags": [
+      "routine",
+      "independent work"
+    ]
+  },
+  {
+    "id": "share-out",
+    "name": "share-out",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "share-out.png",
+    "tags": [
+      "routine",
+      "discussion"
+    ]
+  },
+  {
+    "id": "ask-a-question",
+    "name": "ask-a-question",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "ask-a-question.png",
+    "tags": [
+      "routine",
+      "discussion"
+    ]
+  },
+  {
+    "id": "laptop-icon",
+    "name": "laptop",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "laptop-icon.png",
+    "tags": [
+      "technology",
+      "device"
+    ]
+  },
+  {
+    "id": "centers",
+    "name": "centers",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "centers.png",
+    "tags": [
+      "routine",
+      "grouping",
+      "stations"
+    ]
+  },
+  {
+    "id": "whole-class",
+    "name": "whole class",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "whole-class.png",
+    "tags": [
+      "routine",
+      "grouping"
+    ]
+  },
+  {
+    "id": "practice",
+    "name": "practice",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "practice.png",
+    "tags": [
+      "routine",
+      "mastery"
+    ]
+  },
+  {
+    "id": "teacher-table",
+    "name": "teacher table",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "teacher-table.png",
+    "tags": [
+      "routine",
+      "grouping",
+      "stations"
+    ]
+  },
+  {
+    "id": "group-circle",
+    "name": "group - circle",
+    "category": "Grouping & stations",
+    "collection": "K-2 Math Resource Icons",
+    "file": "group-circle.png",
+    "tags": [
+      "work group token",
+      "shape",
+      "circle"
+    ]
+  },
+  {
+    "id": "group-diamond",
+    "name": "group - diamond",
+    "category": "Grouping & stations",
+    "collection": "K-2 Math Resource Icons",
+    "file": "group-diamond.png",
+    "tags": [
+      "work group token",
+      "shape",
+      "diamond"
+    ]
+  },
+  {
+    "id": "group-hexagon",
+    "name": "group - hexagon",
+    "category": "Grouping & stations",
+    "collection": "K-2 Math Resource Icons",
+    "file": "group-hexagon.png",
+    "tags": [
+      "work group token",
+      "shape",
+      "hexagon"
+    ]
+  },
+  {
+    "id": "choral-count",
+    "name": "choral-count",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "choral-count.png",
+    "tags": [
+      "routine",
+      "whole class",
+      "counting"
+    ]
+  },
+  {
+    "id": "estimation-exploration",
+    "name": "estimation-exploration",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "estimation-exploration.png",
+    "tags": [
+      "routine",
+      "estimation"
+    ]
+  },
+  {
+    "id": "how-many-do-you-see",
+    "name": "how-many-do-you-see",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "how-many-do-you-see.png",
+    "tags": [
+      "routine",
+      "number sense",
+      "subitizing"
+    ]
+  },
+  {
+    "id": "notice-and-wonder",
+    "name": "notice-and-wonder",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "notice-and-wonder.png",
+    "tags": [
+      "routine",
+      "discussion"
+    ]
+  },
+  {
+    "id": "number-talk",
+    "name": "number-talk",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "number-talk.png",
+    "tags": [
+      "routine",
+      "mental math",
+      "discussion"
+    ]
+  },
+  {
+    "id": "questions-about-us",
+    "name": "questions-about-us",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "questions-about-us.png",
+    "tags": [
+      "routine",
+      "data",
+      "survey"
+    ]
+  },
+  {
+    "id": "true-or-false",
+    "name": "true-or-false",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "true-or-false.png",
+    "tags": [
+      "routine",
+      "assessment"
+    ]
+  },
+  {
+    "id": "what-do-you-know",
+    "name": "what-do-you-know",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "what-do-you-know.png",
+    "tags": [
+      "routine",
+      "prior knowledge"
+    ]
+  },
+  {
+    "id": "which-three-go-together",
+    "name": "which-three-go-together",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "which-three-go-together.png",
+    "tags": [
+      "routine",
+      "reasoning",
+      "classification"
+    ]
+  },
+  {
+    "id": "goal",
+    "name": "goal",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "goal.png",
+    "tags": [
+      "routine",
+      "mastery",
+      "target"
+    ]
+  },
+  {
+    "id": "pass-check",
+    "name": "pass · check",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "pass-check.png",
+    "tags": [
+      "mastery marker",
+      "check",
+      "pass"
+    ]
+  },
+  {
+    "id": "not-yet-x",
+    "name": "not yet · x",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "not-yet-x.png",
+    "tags": [
+      "mastery marker",
+      "x mark",
+      "not yet"
+    ]
+  },
+  {
+    "id": "got-it-flower",
+    "name": "got it · flower",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "got-it-flower.png",
+    "tags": [
+      "mastery marker",
+      "flower",
+      "growth"
+    ]
+  },
+  {
+    "id": "growing-bud",
+    "name": "growing · bud",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "growing-bud.png",
+    "tags": [
+      "mastery marker",
+      "growth",
+      "bud"
+    ]
+  },
+  {
+    "id": "growing-sprout",
+    "name": "growing · sprout",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "growing-sprout.png",
+    "tags": [
+      "mastery marker",
+      "growth",
+      "sprout"
+    ]
+  },
+  {
+    "id": "growing-seedling",
+    "name": "growing · seedling",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "growing-seedling.png",
+    "tags": [
+      "mastery marker",
+      "growth",
+      "seedling"
+    ]
+  },
+  {
+    "id": "think-pair-share",
+    "name": "think-pair-share",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "think-pair-share.png",
+    "tags": [
+      "routine",
+      "discussion",
+      "partner work"
+    ]
+  },
+  {
+    "id": "choral-response",
+    "name": "choral-response",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "choral-response.png",
+    "tags": [
+      "routine",
+      "whole class",
+      "discussion"
+    ]
+  },
+  {
+    "id": "show-me",
+    "name": "show-me",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "show-me.png",
+    "tags": [
+      "routine",
+      "assessment",
+      "gesture"
+    ]
+  },
+  {
+    "id": "build-on-it",
+    "name": "build-on-it",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "build-on-it.png",
+    "tags": [
+      "routine",
+      "discussion"
+    ]
+  },
+  {
+    "id": "say-it-your-way",
+    "name": "say-it-your-way",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "say-it-your-way.png",
+    "tags": [
+      "routine",
+      "discussion",
+      "flexibility"
+    ]
+  },
+  {
+    "id": "atd-star",
+    "name": "atd · star",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "atd-star.png",
+    "tags": [
+      "mastery marker",
+      "star",
+      "atd"
+    ]
+  },
+  {
+    "id": "md-check",
+    "name": "md · check",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "md-check.png",
+    "tags": [
+      "mastery marker",
+      "check",
+      "md"
+    ]
+  },
+  {
+    "id": "group-square",
+    "name": "group - square",
+    "category": "Grouping & stations",
+    "collection": "K-2 Math Resource Icons",
+    "file": "group-square.png",
+    "tags": [
+      "work group token",
+      "shape",
+      "square"
+    ]
+  },
+  {
+    "id": "act-it-out",
+    "name": "act-it-out",
+    "category": "Instructional routines",
+    "collection": "K-2 Math Resource Icons",
+    "file": "act-it-out.png",
+    "tags": [
+      "routine",
+      "kinesthetic"
+    ]
   }
 ]
