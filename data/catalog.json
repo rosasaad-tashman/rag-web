@@ -1,17 +1,347 @@
 [
-  { "id": "toy-car-red", "name": "Toy car — red", "category": "Clipart", "collection": "Clipart Library", "file": "toy-car-red.png", "tags": ["sorting", "patterns", "counting", "vehicle"] },
-  { "id": "pointing-finger-source", "name": "Pointing finger", "category": "Clipart", "collection": "Clipart Library", "file": "pointing-finger-source.png", "tags": ["counting", "one-to-one matching", "hand"] },
-  { "id": "pass-smiley", "name": "pass · smiley", "category": "Mastery & goals", "collection": "K-2 Math Resource Icons", "file": "pass-smiley.png", "tags": ["mastery marker", "face", "happy"] },
-  { "id": "not-yet-sad", "name": "not yet · sad", "category": "Mastery & goals", "collection": "K-2 Math Resource Icons", "file": "not-yet-sad.png", "tags": ["mastery marker", "face", "frown", "sad"] },
-  { "id": "snap-cube-teal", "name": "Snap cube — teal", "category": "Number & counting", "collection": "Doodle Icons", "file": "snap-cube-teal.png", "tags": ["manipulative", "3d shape", "cube"] },
-  { "id": "group-triangle", "name": "group - triangle", "category": "Grouping & stations", "collection": "K-2 Math Resource Icons", "file": "group-triangle.png", "tags": ["work group token", "shape", "triangle"] },
-
-  { "id": "happy-face", "name": "Happy face", "category": "Generated", "collection": "Generated icons", "file": "happy-face.png", "tags": ["face", "happy", "smile"] },
-  { "id": "frowning-face", "name": "Frowning face", "category": "Generated", "collection": "Generated icons", "file": "frowning-face.png", "tags": ["face", "sad", "frown"] },
-  { "id": "pointing-finger-generated", "name": "Pointing finger (generated)", "category": "Generated", "collection": "Generated icons", "file": "pointing-finger-generated.png", "tags": ["hand", "pointing", "counting"] },
-  { "id": "waving-hand", "name": "Waving hand", "category": "Generated", "collection": "Generated icons", "file": "waving-hand.png", "tags": ["hand", "wave", "five fingers", "palm"] },
-  { "id": "parallelogram", "name": "Parallelogram", "category": "Generated", "collection": "Generated icons", "file": "parallelogram.png", "tags": ["shape", "geometry", "parallelogram"] },
-  { "id": "cube-2x2x2", "name": "2x2x2 cube", "category": "Generated", "collection": "Generated icons", "file": "cube-2x2x2.png", "tags": ["shape", "geometry", "cube", "3d"] },
-  { "id": "triangular-prism", "name": "Triangular prism", "category": "Generated", "collection": "Generated icons", "file": "triangular-prism.png", "tags": ["shape", "geometry", "prism", "3d"] },
-  { "id": "rectangular-prism", "name": "Rectangular prism", "category": "Generated", "collection": "Generated icons", "file": "rectangular-prism.png", "tags": ["shape", "geometry", "prism", "3d", "box"] }
+  {
+    "id": "toy-car-red",
+    "name": "Toy car — red",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "toy-car-red.png",
+    "tags": [
+      "sorting",
+      "patterns",
+      "counting",
+      "vehicle"
+    ]
+  },
+  {
+    "id": "pointing-finger-source",
+    "name": "Pointing finger",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "pointing-finger-source.png",
+    "tags": [
+      "counting",
+      "one-to-one matching",
+      "hand"
+    ]
+  },
+  {
+    "id": "pass-smiley",
+    "name": "pass · smiley",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "pass-smiley.png",
+    "tags": [
+      "mastery marker",
+      "face",
+      "happy"
+    ]
+  },
+  {
+    "id": "not-yet-sad",
+    "name": "not yet · sad",
+    "category": "Mastery & goals",
+    "collection": "K-2 Math Resource Icons",
+    "file": "not-yet-sad.png",
+    "tags": [
+      "mastery marker",
+      "face",
+      "frown",
+      "sad"
+    ]
+  },
+  {
+    "id": "snap-cube-teal",
+    "name": "Snap cube — teal",
+    "category": "Number & counting",
+    "collection": "Doodle Icons",
+    "file": "snap-cube-teal.png",
+    "tags": [
+      "manipulative",
+      "3d shape",
+      "cube"
+    ]
+  },
+  {
+    "id": "group-triangle",
+    "name": "group - triangle",
+    "category": "Grouping & stations",
+    "collection": "K-2 Math Resource Icons",
+    "file": "group-triangle.png",
+    "tags": [
+      "work group token",
+      "shape",
+      "triangle"
+    ]
+  },
+  {
+    "id": "happy-face",
+    "name": "Happy face",
+    "category": "Generated",
+    "collection": "Generated icons",
+    "file": "happy-face.png",
+    "tags": [
+      "face",
+      "happy",
+      "smile"
+    ]
+  },
+  {
+    "id": "frowning-face",
+    "name": "Frowning face",
+    "category": "Generated",
+    "collection": "Generated icons",
+    "file": "frowning-face.png",
+    "tags": [
+      "face",
+      "sad",
+      "frown"
+    ]
+  },
+  {
+    "id": "pointing-finger-generated",
+    "name": "Pointing finger (generated)",
+    "category": "Generated",
+    "collection": "Generated icons",
+    "file": "pointing-finger-generated.png",
+    "tags": [
+      "hand",
+      "pointing",
+      "counting"
+    ]
+  },
+  {
+    "id": "waving-hand",
+    "name": "Waving hand",
+    "category": "Generated",
+    "collection": "Generated icons",
+    "file": "waving-hand.png",
+    "tags": [
+      "hand",
+      "wave",
+      "five fingers",
+      "palm"
+    ]
+  },
+  {
+    "id": "parallelogram",
+    "name": "Parallelogram",
+    "category": "Generated",
+    "collection": "Generated icons",
+    "file": "parallelogram.png",
+    "tags": [
+      "shape",
+      "geometry",
+      "parallelogram"
+    ]
+  },
+  {
+    "id": "cube-2x2x2",
+    "name": "2x2x2 cube",
+    "category": "Generated",
+    "collection": "Generated icons",
+    "file": "cube-2x2x2.png",
+    "tags": [
+      "shape",
+      "geometry",
+      "cube",
+      "3d"
+    ]
+  },
+  {
+    "id": "triangular-prism",
+    "name": "Triangular prism",
+    "category": "Generated",
+    "collection": "Generated icons",
+    "file": "triangular-prism.png",
+    "tags": [
+      "shape",
+      "geometry",
+      "prism",
+      "3d"
+    ]
+  },
+  {
+    "id": "rectangular-prism",
+    "name": "Rectangular prism",
+    "category": "Generated",
+    "collection": "Generated icons",
+    "file": "rectangular-prism.png",
+    "tags": [
+      "shape",
+      "geometry",
+      "prism",
+      "3d",
+      "box"
+    ]
+  },
+  {
+    "id": "strawberry",
+    "name": "Strawberry",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "strawberry.png",
+    "tags": [
+      "fractions",
+      "sorting",
+      "food unit",
+      "fruit"
+    ]
+  },
+  {
+    "id": "number-cube-1",
+    "name": "Number cube — 1",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "number-cube-1.png",
+    "tags": [
+      "counting",
+      "probability",
+      "games",
+      "dice",
+      "die"
+    ]
+  },
+  {
+    "id": "number-cube-2",
+    "name": "Number cube — 2",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "number-cube-2.png",
+    "tags": [
+      "counting",
+      "probability",
+      "games",
+      "dice",
+      "die"
+    ]
+  },
+  {
+    "id": "number-cube-3",
+    "name": "Number cube — 3",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "number-cube-3.png",
+    "tags": [
+      "counting",
+      "probability",
+      "games",
+      "dice",
+      "die"
+    ]
+  },
+  {
+    "id": "number-cube-4",
+    "name": "Number cube — 4",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "number-cube-4.png",
+    "tags": [
+      "counting",
+      "probability",
+      "games",
+      "dice",
+      "die"
+    ]
+  },
+  {
+    "id": "number-cube-5",
+    "name": "Number cube — 5",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "number-cube-5.png",
+    "tags": [
+      "counting",
+      "probability",
+      "games",
+      "dice",
+      "die"
+    ]
+  },
+  {
+    "id": "number-cube-6",
+    "name": "Number cube — 6",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "number-cube-6.png",
+    "tags": [
+      "counting",
+      "probability",
+      "games",
+      "dice",
+      "die"
+    ]
+  },
+  {
+    "id": "crayon",
+    "name": "Crayon",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "crayon.png",
+    "tags": [
+      "art supplies",
+      "sorting by color"
+    ]
+  },
+  {
+    "id": "pencil",
+    "name": "Pencil",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "pencil.png",
+    "tags": [
+      "school supplies",
+      "measurement"
+    ]
+  },
+  {
+    "id": "button",
+    "name": "Button",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "button.png",
+    "tags": [
+      "sorting",
+      "patterns",
+      "counting"
+    ]
+  },
+  {
+    "id": "toy-car-teal",
+    "name": "Toy car — teal",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "toy-car-teal.png",
+    "tags": [
+      "sorting",
+      "patterns",
+      "counting",
+      "vehicle"
+    ]
+  },
+  {
+    "id": "toy-car-yellow",
+    "name": "Toy car — yellow",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "toy-car-yellow.png",
+    "tags": [
+      "sorting",
+      "patterns",
+      "counting",
+      "vehicle"
+    ]
+  },
+  {
+    "id": "toy-car-navy",
+    "name": "Toy car — navy",
+    "category": "Clipart",
+    "collection": "Clipart Library",
+    "file": "toy-car-navy.png",
+    "tags": [
+      "sorting",
+      "patterns",
+      "counting",
+      "vehicle"
+    ]
+  }
 ]
